@@ -1,0 +1,5 @@
+
+\
+java:S4719":Replace Charset.forName() call with StandardCharsets.UTF_8(¥šèºøÿÿÿÿ8¡æ²¯–0
+i
+java:S1128"MRemove this unused import 'org.springframework.boot.SpringBootConfiguration'.(€­“8–Î°–0
