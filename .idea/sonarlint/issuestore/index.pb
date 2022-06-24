@@ -34,3 +34,11 @@ x
 Hsrc/main/java/com/example/swaggerdemo/controller/FileRestController.java,6\5\652244d2172d7ee36e1048cad6f5f543160f0c7a
 |
 Lsrc/main/java/com/example/swaggerdemo/controller/SurveillanceController.java,f\2\f2369a294411e900f12083fb1aba0c2685a8f719
+i
+9src/test/java/com/example/swaggerdemo/file/EquStatus.java,d\9\d9a5d40d6fbf9ed21a0838b9f14099d6a9fcb003
+p
+@src/main/java/com/example/swaggerdemo/utils/VideoEncodeUtil.java,b\1\b167291417ad6b84926c26c943f6f9a8ed3cd324
+p
+@src/main/java/com/example/swaggerdemo/utils/MyJsonFormatter.java,0\2\02f6771024f6ae9099d588ce2fe073142006acfb
+h
+8src/test/java/com/example/swaggerdemo/file/taskInfo.java,5\1\51f75f1d78a18043ddf402c46785ef334f1781d0

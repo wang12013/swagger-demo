@@ -1,0 +1,14 @@
+
+
+#配置RabbitMQ的基本信息, IP 端口 password 等 用来创建连接工厂
+spring:
+  rabbitmq:
+    password: guest
+    username: guest
+    #端口就用默认值5672
+    #虚拟机 默认的 /
+    virtual-host: /itcast
+    port: 5672
+    host: 192.168.31.130
+server:
+  port: 8082
