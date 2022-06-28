@@ -16,6 +16,7 @@ import java.io.IOException;
 import java.io.OutputStream;
 import java.io.RandomAccessFile;
 import java.nio.charset.StandardCharsets;
+import java.util.List;
 
 /**
  * @author wangzy
@@ -45,6 +46,17 @@ public class HelloController {
     public String hello2(@ApiParam("用户名") String name){
         return name;
     }
+
+    //用List来接受路径变量
+    @GetMapping("/{mfids}/get")
+    public String listRequest(@PathVariable("mfids")List<String> mfids){
+        System.out.println(mfids);
+        return mfids.toString();
+
+        //请求路径： localhost:8082/12,34,56/get  ----> 能成功访问
+        //路径变量是以,隔开的一个长字符串，他能自动解析成一个list
+    }
+
 
     //定时任务
     @Scheduled(fixedRate = 5000)//每隔5秒执行

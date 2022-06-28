@@ -47,8 +47,6 @@ l
 q
 Asrc/main/java/com/example/swaggerdemo/SwaggerDemoApplication.java,8\b\8b1f780a92aacf9b703d14a2dc7f51982f490def
 u
-Esrc/main/java/com/example/swaggerdemo/controller/HelloController.java,5\9\59b709056421bc02c49e0379c4af2c91add5766b
-u
 E.idea/libraries/Maven__org_springframework_amqp_spring_amqp_2_3_1.xml,3\c\3cf0ebb08b5fda4f29f561cb9a0c5e33ccca666f
 j
 :.idea/libraries/Maven__com_rabbitmq_amqp_client_5_10_0.xml,2\7\278122c17b0b2fd2858bb95451ebaa8889bc143a
