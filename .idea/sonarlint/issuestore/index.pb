@@ -26,8 +26,6 @@ l
 <src/test/java/com/example/swaggerdemo/json/TestFastJosn.java,7\8\7866bf979ea20612ab448ebc0412acc7c50bd7cb
 p
 @src/main/java/com/example/swaggerdemo/config/JsonFormatTool.java,0\8\0814c287fd1d950c1592b14d9c11318205443f06
-l
-<src/test/java/com/example/swaggerdemo/file/FileFindTest.java,9\1\91d3eb3bccb483a6df2f5456408889b34c1dc84a
 u
 Esrc/main/java/com/example/swaggerdemo/controller/RedioController.java,b\6\b6c9998af7d104a2ac9920a104c4e3f1d00f7f10
 x
@@ -70,5 +68,3 @@ Y
 )RabbitMQ-producter/RabbitMQ-producter.iml,9\2\92961a7ead1fdffdb97a4dd8fe2f650d4cb461f9
 J
 RabbitMQ-producter/pom.xml,a\b\ab6dc25b516193e03a7c8d3ae0b9950fb5dac36f
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
