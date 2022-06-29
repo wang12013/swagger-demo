@@ -59,7 +59,7 @@ public class HelloController {
 
 
     //定时任务
-    @Scheduled(fixedRate = 5000)//每隔5秒执行
+    @Scheduled(fixedRate = 15 * 1000)//每隔15秒执行
     public void timeTask(){
         System.out.println("定时任务执行了");
     }

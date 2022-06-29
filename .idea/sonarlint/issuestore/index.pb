@@ -4,8 +4,6 @@
 Dockerfile,6\6\6651ddff6eb82c840ced7c1dddee15c6e1913dd4
 …
 Usrc/main/java/com/example/swaggerdemo/config/NonStaticResourceHttpRequestHandler.java,f\2\f2ff9a80c7085a3061746f9dbef7c7ac300568b7
-d
-4src/main/java/com/example/swaggerdemo/pojo/User.java,5\4\542bb45c96eb7f437434ebe7d4940fcd82ed0d61
 x
 Hsrc/main/java/com/example/swaggerdemo/config/WebServerConfiguration.java,7\1\717f85ac71b20221aabfc1961004a593149c71d2
 j
@@ -28,8 +26,6 @@ p
 @src/main/java/com/example/swaggerdemo/config/JsonFormatTool.java,0\8\0814c287fd1d950c1592b14d9c11318205443f06
 u
 Esrc/main/java/com/example/swaggerdemo/controller/RedioController.java,b\6\b6c9998af7d104a2ac9920a104c4e3f1d00f7f10
-x
-Hsrc/main/java/com/example/swaggerdemo/controller/FileRestController.java,6\5\652244d2172d7ee36e1048cad6f5f543160f0c7a
 |
 Lsrc/main/java/com/example/swaggerdemo/controller/SurveillanceController.java,f\2\f2369a294411e900f12083fb1aba0c2685a8f719
 i
@@ -44,8 +40,6 @@ o
 ?src/main/java/com/example/swaggerdemo/service/VideoService.java,e\f\efad945f445af5aa1ea6944dd1b37ba007ec24b7
 l
 <src/test/java/com/example/swaggerdemo/file/JsonReadTest.java,d\b\db69b9f35c4d637be18d2599c3e722d2665e1924
-q
-Asrc/main/java/com/example/swaggerdemo/SwaggerDemoApplication.java,8\b\8b1f780a92aacf9b703d14a2dc7f51982f490def
 u
 E.idea/libraries/Maven__org_springframework_amqp_spring_amqp_2_3_1.xml,3\c\3cf0ebb08b5fda4f29f561cb9a0c5e33ccca666f
 j
@@ -60,9 +54,13 @@ w
 G.idea/libraries/Maven__org_springframework_retry_spring_retry_1_3_0.xml,5\0\50b8aaebf5cee086b1d1a507c9a4b9019e8bffa9
 n
 >.idea/libraries/Maven__org_springframework_spring_tx_5_3_1.xml,7\c\7cbe8eaff0fb1a1c1bc44c1eb6b888ec60471eb9
-W
-'RabbitMQ-consumer/RabbitMQ-consumer.iml,6\6\668a0a80014bb0c549db63129abe80f7078a1902
-Y
-)RabbitMQ-producter/RabbitMQ-producter.iml,9\2\92961a7ead1fdffdb97a4dd8fe2f650d4cb461f9
 J
 RabbitMQ-producter/pom.xml,a\b\ab6dc25b516193e03a7c8d3ae0b9950fb5dac36f
+I
+RabbitMQ-consumer/pom.xml,3\3\33f6ec124c4fbe4ea795630207ced312809ba533
+z
+Jsrc/main/java/com/example/swaggerdemo/controller/fileUploadController.java,e\2\e2377358cbf97e655bad5ca9d7289d5a20807670
+f
+6RabbitMQ-producter/src/main/java/com/example/User.java,c\4\c450c7261e96c14ea2c0f3989db95a10f4b31bbd
+l
+<src/test/java/com/example/swaggerdemo/file/FileFindTest.java,9\1\91d3eb3bccb483a6df2f5456408889b34c1dc84a

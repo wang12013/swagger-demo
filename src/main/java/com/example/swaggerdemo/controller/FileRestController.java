@@ -2,8 +2,7 @@ package com.example.swaggerdemo.controller;
 
 import cn.hutool.core.util.StrUtil;
 import com.example.swaggerdemo.config.NonStaticResourceHttpRequestHandler;
-import com.example.swaggerdemo.utils.VideoEncodeUtil;
-import io.swagger.annotations.ApiOperation;
+
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.tomcat.util.http.fileupload.IOUtils;
@@ -13,7 +12,7 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
 import org.springframework.util.StringUtils;
 import org.springframework.web.bind.annotation.*;
-import sun.net.www.protocol.http.HttpURLConnection;
+
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
