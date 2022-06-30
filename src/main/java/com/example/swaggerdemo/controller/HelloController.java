@@ -50,6 +50,7 @@ public class HelloController {
     //用List来接受路径变量
     @GetMapping("/{mfids}/get")
     public String listRequest(@PathVariable("mfids")List<String> mfids){
+
         System.out.println(mfids);
         return mfids.toString();
 
