@@ -3,6 +3,9 @@
 * md笔记搬到GitHub
 
 * 配置中心 config
+* 尚硅谷MySQL高级 
+* 尚硅谷Mycat
+* 黑马并发编程 和 netty
 
 * Maven高级----安装nexus
 
