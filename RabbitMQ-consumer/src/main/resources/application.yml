@@ -8,6 +8,17 @@ spring:
     virtual-host: /itcast
     port: 5672
     host: 192.168.31.130
+    listener:
+      simple:
+        retry:
+          ####开启消费者（程序出现异常的情况下会）进行重试
+          enabled: true
+          ####最大重试次数
+          max-attempts: 5
+          ####重试间隔次数
+          initial-interval: 3000
+        ####开启手动ack
+        acknowledge-mode: manual
 
 server:
   port: 8085

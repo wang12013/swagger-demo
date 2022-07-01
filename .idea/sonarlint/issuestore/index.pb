@@ -51,10 +51,6 @@ w
 G.idea/libraries/Maven__org_springframework_retry_spring_retry_1_3_0.xml,5\0\50b8aaebf5cee086b1d1a507c9a4b9019e8bffa9
 n
 >.idea/libraries/Maven__org_springframework_spring_tx_5_3_1.xml,7\c\7cbe8eaff0fb1a1c1bc44c1eb6b888ec60471eb9
-J
-RabbitMQ-producter/pom.xml,a\b\ab6dc25b516193e03a7c8d3ae0b9950fb5dac36f
-I
-RabbitMQ-consumer/pom.xml,3\3\33f6ec124c4fbe4ea795630207ced312809ba533
 z
 Jsrc/main/java/com/example/swaggerdemo/controller/fileUploadController.java,e\2\e2377358cbf97e655bad5ca9d7289d5a20807670
 f
